@@ -1,0 +1,96 @@
+﻿Reference Number,Market,Liquefaction Plant Train,Infrastructure Start Year,Liquefaction Capacity (MTPA),Count
+1,Libya,Marsa El Brega LNG Tl -41,1970,3.2,1
+2,Brunei,Brunei LNG Tl-T2,1972,2.88,1
+2,Brunei,Brunei LNG T3-T4,1973,2.88,1
+2,Brunei,Brunei LNG T5,1974,1.44,1
+3,UAE,ADGAS LNG Tl -2,1977,2.6,1
+4,Algeria,Arzew GLIZ Tl-T6,1978,7.9,1
+4,Algeria,Arzew GLU Tl-T6,1981,8.4,1
+5,Indonesia,Bontang LNG TC-TD,1983,5.6,1
+6,Malaysia,MLNG Satu Tl-T3,1983,8.4,1
+5,Indonesia,Bontang LNG TE,1989,2.8,1
+7,Australia,North West Shelf LNG Tl-T2,1989,5,1
+7,Australia,North West Shelf LNG T3,1992,2.5,1
+5,Indonesia,Bontang LNG TF,1993,2.8,1
+3,UAE,ADGAS LNG T3,1994,3.2,1
+6,Malaysia,MILNG Dua T4-T5,1995,6.4,1
+6,Malaysia,MLNG Dua T6,1995,3.2,1
+8,Qatar,Qatargas 1 TI,1996,3.2,1
+5,Indonesia,Bontang LNG TG,1997,2.8,1
+8,Qatar,Qatargas 1 T2,1997,3.2,1
+8,Qatar,Qatargas 1 T3,1998,3.2,1
+5,Indonesia,Bontang LNG TH,1999,2.95,1
+8,Qatar,Rasgas 1 TI,1999,3.3,1
+9,Trinidad and Tobago,Atlantic LNG Tl,1999,3,1
+10,Nigeria,NLNG Tl-T2,1999,6.6,1
+8,Qatar,Rasgas 1 T2,2000,3.3,1
+11,Oman,oman LNG Tl-T2,2000,7.1,1
+9,Trinidad and Tobago,Atlantic LNG T2,2002,3.3,1
+10,Nigeria,NLNG T3,2002,3.3,1
+6,Malaysia,MLNG Tiga T7-T8,2003,7.7,1
+9,Trinidad and Tobago,Atlantic LNG T3,2003,3.3,1
+7,Australia,North West Shelf LNG T4,2004,4.6,1
+8,Qatar,Rasgas 203,2004,4.7,1
+8,Qatar,Rasgas 2 T4,2005,4.7,1
+9,Trinidad and Tobago,Atlantic LNG T4,2005,5.2,1
+10,Nigeria,NLNG T4,2005,4.1,1
+12,Egypt,Damietta LNG Tl,2005,5,1
+13,Egypt,Egyptian LNG (Idku) Tl-T2,2005,7.2,1
+10,Nigeria,NLNG T5,2006,4.1,1
+11,Oman,Oman LNG T3 (Qalhat),2006,3.3,1
+14,Australia,Darwin LNG Tl,2006,3.7,1
+8,Qatar,Rasgas 2 T5,2007,4.7,1
+10,Nigeria,NLNG T6,2007,4.1,1
+15,Equatorial Guinea,EG LNG Tl,2007,3.7,1
+16,Norway,Hammerfest LNG Tl,2007,4.2,1
+7,Australia,North West Shelf LNG T5,2008,4.6,1
+8,Qatar,Qatargas 2 T4-T5,2009,15.6,1
+8,Qatar,Rasgas 3 T6-T7,2009,15.6,1
+17,Russia,Sakhalin 2 Tl-T2,2009,9.6,1
+18,Indonesia,Tangguh LNG Tl,2009,3.8,1
+19,Yemen,Yemen LNG Tl-T21,2009,6.7,1
+8,Qatar,Qatargas 3 T6,2010,7.8,1
+18,Indonesia,Tangguh LNG T2,2010,3.8,1
+20,Peru,peru LNG Tl,2010,4.45,1
+8,Qatar,Qatargas 4 T7,2011,7.8,1
+21,Australia,Pluto LNG Tl,2012,4.9,1
+4,Algeria,Skikda GLIK Tl (rebuild),2013,4.5,1
+22,Angola,Angola LNG Tl,2013,5.2,1
+4,Algeria,Arzew GL3Z (Gassi Touil) Tl,2014,4.7,1
+23,Papua New Guinea,PNG LNG Tl-T2,2014,6.9,1
+24,Indonesia,Donggi-Senoro LNG Tl,2015,2,1
+25,Australia,GUNG Tl,2015,3.9,1
+26,Australia,Queensland curtis LNG Tl -T2,2015,8.5,1
+25,Australia,GLNG T2,2016,3.9,1
+27,Australia,Australia Pacific LNG Tl-T2,2016,9,1
+28,Australia,Gorgon LNG Tl-T2,2016,10.4,1
+29,United States,Sabine pass Tl-T2,2016,10,1
+6,Malaysia,MLNG T9,2017,3.6,1
+28,Australia,Gorgon LNG T3,2017,5.2,1
+29,United States,Sabine pass T3-T4,2017,10,1
+30,Malaysia,Petronas FLNG Satu,2017,1.2,1
+31,Australia,Wheatstone LNG Tl,2017,4.45,1
+32,Russia,yarnal LNG Tl,2017,5.5,1
+31,Australia,Wheatstone LNG T2,2018,4.45,1
+32,Russia,yarnal LNG T2,2018,5.5,1
+33,Cameroon,Cameroon FLNG,2018,2.4,1
+34,United States,cove point LNG Tl,2018,5.25,1
+29,United States,Sabine Pass T5,2019,5,1
+32,Russia,Yamai LNG T3,2019,5.5,1
+35,Australia,Ichthys LNG Tl-T2,2019,8.9,1
+36,Argentina,Tango FLNG,2019,0.5,1
+37,United States,Corpus Christi Tl,2019,4.5,1
+38,United States,cameron LNG Tl,2019,4,1
+37,United States,corpus Christi T2,2019,4.5,1
+39,United States,Freeport LNG Tl,2019,5.1,1
+40,Australia,Prelude FLNG,2019,3.6,1
+41,Russia,Vysotsk LNG Tl,2019,0.66,1
+42,United States,Elba Gland Tl-T3,2019,0.75,1
+39,United States,Freeport LNG T2-T3,2020,10.2,1
+38,United States,Cameron T2-T3,2020,8,1
+42,United States,Elba Island T4. TIO,2020,1.75,1
+43,Malaysia,Petronas FLNG Dua,2021,1.5,1
+37,United States,corpus Christi T3,2021,4.5,1
+32,Russia,yamal LNG T4,2021,0.9,1
+29,United States,Sabine Pass T6,2022,5,1
+44,United States,Calcasieu pass,2022,7.51,1
