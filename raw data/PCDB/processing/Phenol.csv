@@ -1,0 +1,3 @@
+ID,1959,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969,1970,1971,1972,Data Source,Metric,Technology Name,Spatial Scale,Country Name,Country Code,Unit
+Phenol_Price_World,14.96181631,14.61758691,14.79387755,12.46878199,9.759467758,9.977412731,9.545638945,9.347222222,8.587949466,7.098076923,7.372290292,6.2920434,5.640584695,5.42881072,Santa Fe Institute,Price,Phenol,Global,World,World,Price (1966 USD/lbs)
+Phenol_Annual production_World,652.0,730.7,731.3,773.2,884.7,1062.8,1173.4,1289.5,1297.2,1463.3,1636.2,1708.2,1967.1,2051.8,Santa Fe Institute,Annual production,Phenol,Global,World,World,Yearly Production (Mil. lbs)

@@ -1,0 +1,3 @@
+ID,1962,1963,1964,1965,1966,1967,1968,1969,1970,1971,1972,Data Source,Metric,Technology Name,Spatial Scale,Country Name,Country Code,Unit
+Hydrofluoric Acid_Price_World,14.55987718,14.24257932,13.71252567,13.8336714,13.23710317,13.24198251,13.70480769,13.7464656,14.54520796,14.54170249,13.31239531,Santa Fe Institute,Price,Hydrofluoric Acid,Global,World,World,Price (1966 USD/lbs)
+Hydrofluoric Acid_Annual production_World,166.5,188.4,197.3,226.2,267.2,272.8,301.8,327.3,324.9,334.1,352.1,Santa Fe Institute,Annual production,Hydrofluoric Acid,Global,World,World,Yearly Production (Mil. lbs)

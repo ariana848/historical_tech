@@ -1,0 +1,3 @@
+ID,1959,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969,1970,1971,1972,Data Source,Metric,Technology Name,Spatial Scale,Country Name,Country Code,Unit
+Maleic Anhydride_Price_World,26.9370485,24.17280164,22.11428571,17.06857728,13.62947799,12.52053388,11.80020284,12.60416667,12.8765792,11.86730769,13.7737983,14.34267631,12.6672399,10.99748744,Santa Fe Institute,Price,Maleic Anhydride,Global,World,World,Price (1966 USD/lbs)
+Maleic Anhydride_Annual production_World,60.6,90.1,77.7,84.0,86.6,118.1,128.2,168.6,168.2,181.7,200.7,215.1,228.6,274.4,Santa Fe Institute,Annual production,Maleic Anhydride,Global,World,World,Yearly Production (Mil. lbs)

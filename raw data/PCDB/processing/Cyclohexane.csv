@@ -1,0 +1,3 @@
+ID,1956,1957,1958,1959,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969,1970,1971,1972,Data Source,Metric,Technology Name,Spatial Scale,Country Name,Country Code,Unit
+Cyclohexane_Price_World,5.995670996,5.599169263,5.622523462,5.395252838,5.345603272,5.140816327,4.60593654,4.154554759,3.940451745,4.137931034,4.026785714,3.72303207,3.221153846,3.14797361,3.103074141,2.81255374,2.495812395,Santa Fe Institute,Price,Cyclohexane,Global,World,World,Price (1966 USD/lbs)
+Cyclohexane_Annual production_World,41.0,71.0,51.0,60.0,87.0,108.0,133.0,166.0,210.0,262.0,292.0,273.0,314.0,343.0,283.0,269.0,352.0,Santa Fe Institute,Annual production,Cyclohexane,Global,World,World,Yearly Production (Mil. lbs)

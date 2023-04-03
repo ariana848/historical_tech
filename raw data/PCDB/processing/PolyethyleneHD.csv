@@ -1,0 +1,3 @@
+ID,1958,1959,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969,1970,1971,1972,Data Source,Metric,Technology Name,Spatial Scale,Country Name,Country Code,Unit
+Polyethylene HD_Price_World,34.42752868,34.07223942,33.38957055,32.49897959,31.5087001,23.98157625,21.24948665,18.72920892,17.42757937,16.41885326,14.92115385,14.35061263,12.49367089,10.27773001,9.80318258,Santa Fe Institute,Price,Polyethylene HD,Global,World,World,Price (1966 USD/lbs)
+Polyethylene HD_Annual production_World,70.5,115.4,224.5,286.7,423.7,515.9,658.3,784.4,910.3,1082.2,1261.3,1609.6,1604.5,1889.8,2325.1,Santa Fe Institute,Annual production,Polyethylene HD,Global,World,World,Yearly Production (Mil. lbs)
