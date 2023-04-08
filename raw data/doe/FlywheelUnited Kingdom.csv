@@ -1,0 +1,10 @@
+ID,2006,2017,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Flywheel_Cumulative total capacity_GB,Electro-mechanical energy storage,Electro-mechanical energy storage,Flywheel,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
+Flywheel_Cumulative total capacity_GB,Technology Sub-Type Unknown,Technology Sub-Type Unknown,Flywheel,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
+Flywheel_Cumulative total capacity_GB,Electro-mechanical energy storage,Electro-mechanical energy storage,Flywheel,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
+Flywheel_Cumulative total capacity_GB,Flywheel,Flywheel,Flywheel,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
+Flywheel_Cumulative total capacity_GB,,,Flywheel,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
+Flywheel_Cumulative total capacity_GB,0.0,0.2,Flywheel,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
+Flywheel_Cumulative total capacity_GB,,200.0,Flywheel,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
+Flywheel_Cumulative total capacity_GB,400000,1000,Flywheel,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
+Flywheel_Cumulative total capacity_GB,0.0,200.0,Flywheel,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
