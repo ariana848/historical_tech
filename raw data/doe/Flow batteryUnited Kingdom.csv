@@ -1,10 +1,3 @@
-ID,2013,2015,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flow battery_Cumulative total capacity_GB,Electro-chemical battery and chemical storage,Electro-chemical battery and chemical storage,Electro-chemical battery and chemical storage,Flow battery,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Flow battery_Cumulative total capacity_GB,Vanadium redox flow battery,Vanadium redox flow battery,Vanadium redox flow battery,Flow battery,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Flow battery_Cumulative total capacity_GB,Electro-chemical battery and chemical storage,Electro-chemical battery and chemical storage,Electro-chemical battery and chemical storage,Flow battery,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Flow battery_Cumulative total capacity_GB,Flow battery,Flow battery,Flow battery,Flow battery,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Flow battery_Cumulative total capacity_GB,Vanadium redox flow battery,Vanadium redox flow battery,Vanadium redox flow battery,Flow battery,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Flow battery_Cumulative total capacity_GB,16.8,4.0,8.0,Flow battery,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Flow battery_Cumulative total capacity_GB,1680.0,160.0,40.0,Flow battery,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Flow battery_Cumulative total capacity_GB,100,40,5,Flow battery,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Flow battery_Cumulative total capacity_GB,1680.0,160.0,40.0,Flow battery,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
+ID,2013,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Flow battery_Cumulative Rated Capacity_GB,1680.0,1880.0,Flow battery,United Kingdom,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,GB
+Flow battery_Cumulative Rated Power_GB,100.0,145.0,Flow battery,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,GB

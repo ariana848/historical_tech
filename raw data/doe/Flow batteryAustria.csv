@@ -1,10 +1,3 @@
 ID,2013,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flow battery_Cumulative total capacity_AT,Electro-chemical battery and chemical storage,Flow battery,Austria,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,AT
-Flow battery_Cumulative total capacity_AT,Zinc-iron flow battery,Flow battery,Austria,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,AT
-Flow battery_Cumulative total capacity_AT,Electro-chemical battery and chemical storage,Flow battery,Austria,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,AT
-Flow battery_Cumulative total capacity_AT,Flow battery,Flow battery,Austria,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,AT
-Flow battery_Cumulative total capacity_AT,Zinc-iron flow battery,Flow battery,Austria,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,AT
-Flow battery_Cumulative total capacity_AT,2.83,Flow battery,Austria,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,AT
-Flow battery_Cumulative total capacity_AT,181.12,Flow battery,Austria,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,AT
-Flow battery_Cumulative total capacity_AT,64,Flow battery,Austria,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,AT
-Flow battery_Cumulative total capacity_AT,181.12,Flow battery,Austria,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,AT
+Flow battery_Cumulative Rated Capacity_AT,181.12,Flow battery,Austria,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,AT
+Flow battery_Cumulative Rated Power_AT,64.0,Flow battery,Austria,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,AT

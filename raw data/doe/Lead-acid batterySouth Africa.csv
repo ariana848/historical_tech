@@ -1,10 +1,3 @@
 ID,2013,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lead-acid battery_Cumulative total capacity_ZA,Electro-chemical battery and chemical storage,Lead-acid battery,South Africa,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,ZA
-Lead-acid battery_Cumulative total capacity_ZA,Valve regulated lead-acid battery,Lead-acid battery,South Africa,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,ZA
-Lead-acid battery_Cumulative total capacity_ZA,Electro-chemical battery and chemical storage,Lead-acid battery,South Africa,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,ZA
-Lead-acid battery_Cumulative total capacity_ZA,Lead-acid battery,Lead-acid battery,South Africa,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,ZA
-Lead-acid battery_Cumulative total capacity_ZA,Valve regulated lead-acid battery,Lead-acid battery,South Africa,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,ZA
-Lead-acid battery_Cumulative total capacity_ZA,5.0,Lead-acid battery,South Africa,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,ZA
-Lead-acid battery_Cumulative total capacity_ZA,50.0,Lead-acid battery,South Africa,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,ZA
-Lead-acid battery_Cumulative total capacity_ZA,10,Lead-acid battery,South Africa,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,ZA
-Lead-acid battery_Cumulative total capacity_ZA,50.0,Lead-acid battery,South Africa,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,ZA
+Lead-acid battery_Cumulative Rated Capacity_ZA,50.0,Lead-acid battery,South Africa,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,ZA
+Lead-acid battery_Cumulative Rated Power_ZA,10.0,Lead-acid battery,South Africa,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,ZA

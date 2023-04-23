@@ -1,10 +1,3 @@
-ID,2010,2012,2012,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flow battery_Cumulative total capacity_IT,Electro-chemical battery and chemical storage,Electro-chemical battery and chemical storage,Electro-chemical battery and chemical storage,Electro-chemical battery and chemical storage,Flow battery,Italy,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IT
-Flow battery_Cumulative total capacity_IT,Vanadium redox flow battery,Vanadium redox flow battery,Vanadium redox flow battery,Technology Sub-Type Unknown,Flow battery,Italy,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IT
-Flow battery_Cumulative total capacity_IT,Electro-chemical battery and chemical storage,Electro-chemical battery and chemical storage,Electro-chemical battery and chemical storage,Electro-chemical battery and chemical storage,Flow battery,Italy,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IT
-Flow battery_Cumulative total capacity_IT,Flow battery,Flow battery,Flow battery,Flow battery,Flow battery,Italy,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IT
-Flow battery_Cumulative total capacity_IT,Vanadium redox flow battery,Vanadium redox flow battery,Vanadium redox flow battery,,Flow battery,Italy,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IT
-Flow battery_Cumulative total capacity_IT,10.0,4.0,4.0,3.2,Flow battery,Italy,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IT
-Flow battery_Cumulative total capacity_IT,100.0,2000.0,4000.0,1440.0,Flow battery,Italy,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IT
-Flow battery_Cumulative total capacity_IT,10,500,1000,450,Flow battery,Italy,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IT
-Flow battery_Cumulative total capacity_IT,100.0,2000.0,4000.0,1440.0,Flow battery,Italy,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IT
+ID,2010,2012,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Flow battery_Cumulative Rated Capacity_IT,100.0,6100.0,7540.0,Flow battery,Italy,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,IT
+Flow battery_Cumulative Rated Power_IT,10.0,1510.0,1960.0,Flow battery,Italy,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,IT

@@ -1,10 +1,3 @@
 ID,2013,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Compressed air energy storage_Cumulative total capacity_GB,Electro-mechanical energy storage,Compressed air energy storage,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Compressed air energy storage_Cumulative total capacity_GB,Technology Sub-Type Unknown,Compressed air energy storage,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Compressed air energy storage_Cumulative total capacity_GB,Electro-mechanical energy storage,Compressed air energy storage,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Compressed air energy storage_Cumulative total capacity_GB,Compressed air energy storage,Compressed air energy storage,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Compressed air energy storage_Cumulative total capacity_GB,,Compressed air energy storage,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Compressed air energy storage_Cumulative total capacity_GB,6.0,Compressed air energy storage,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Compressed air energy storage_Cumulative total capacity_GB,1980000.0,Compressed air energy storage,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Compressed air energy storage_Cumulative total capacity_GB,330000,Compressed air energy storage,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Compressed air energy storage_Cumulative total capacity_GB,1980000.0,Compressed air energy storage,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
+Compressed air energy storage_Cumulative Rated Capacity_GB,1980000.0,Compressed air energy storage,United Kingdom,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,GB
+Compressed air energy storage_Cumulative Rated Power_GB,330000.0,Compressed air energy storage,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,GB

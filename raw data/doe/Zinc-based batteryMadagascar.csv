@@ -1,10 +1,3 @@
 ID,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Zinc-based battery_Cumulative total capacity_MG,Electro-chemical battery and chemical storage,Zinc-based battery,Madagascar,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,MG
-Zinc-based battery_Cumulative total capacity_MG,Zinc-air battery,Zinc-based battery,Madagascar,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,MG
-Zinc-based battery_Cumulative total capacity_MG,Electro-chemical battery and chemical storage,Zinc-based battery,Madagascar,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,MG
-Zinc-based battery_Cumulative total capacity_MG,Zinc-based battery,Zinc-based battery,Madagascar,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,MG
-Zinc-based battery_Cumulative total capacity_MG,Zinc-air battery,Zinc-based battery,Madagascar,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,MG
-Zinc-based battery_Cumulative total capacity_MG,48.0,Zinc-based battery,Madagascar,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,MG
-Zinc-based battery_Cumulative total capacity_MG,45024.0,Zinc-based battery,Madagascar,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,MG
-Zinc-based battery_Cumulative total capacity_MG,938,Zinc-based battery,Madagascar,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,MG
-Zinc-based battery_Cumulative total capacity_MG,45024.0,Zinc-based battery,Madagascar,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,MG
+Zinc-based battery_Cumulative Rated Capacity_MG,45024.0,Zinc-based battery,Madagascar,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,MG
+Zinc-based battery_Cumulative Rated Power_MG,938.0,Zinc-based battery,Madagascar,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,MG

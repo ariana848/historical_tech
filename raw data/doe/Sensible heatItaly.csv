@@ -1,10 +1,3 @@
 ID,2010,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Sensible heat_Cumulative total capacity_IT,Thermal energy storage,Thermal energy storage,Sensible heat,Italy,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IT
-Sensible heat_Cumulative total capacity_IT,Molten salt,Chilled water,Sensible heat,Italy,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IT
-Sensible heat_Cumulative total capacity_IT,Thermal energy storage,Thermal energy storage,Sensible heat,Italy,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IT
-Sensible heat_Cumulative total capacity_IT,Sensible heat,Sensible heat,Sensible heat,Italy,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IT
-Sensible heat_Cumulative total capacity_IT,Molten salt,Chilled water,Sensible heat,Italy,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IT
-Sensible heat_Cumulative total capacity_IT,8.0,8.0,Sensible heat,Italy,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IT
-Sensible heat_Cumulative total capacity_IT,37760.0,3200.0,Sensible heat,Italy,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IT
-Sensible heat_Cumulative total capacity_IT,4720,400,Sensible heat,Italy,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IT
-Sensible heat_Cumulative total capacity_IT,37760.0,3200.0,Sensible heat,Italy,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IT
+Sensible heat_Cumulative Rated Capacity_IT,37760.0,40960.0,Sensible heat,Italy,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,IT
+Sensible heat_Cumulative Rated Power_IT,4720.0,5120.0,Sensible heat,Italy,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,IT

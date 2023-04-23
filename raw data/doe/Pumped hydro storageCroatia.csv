@@ -1,10 +1,3 @@
 ID,1957,1984,1985,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Pumped hydro storage_Cumulative total capacity_HR,Electro-mechanical energy storage,Electro-mechanical energy storage,Electro-mechanical energy storage,Pumped hydro storage,Croatia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,HR
-Pumped hydro storage_Cumulative total capacity_HR,Open-loop PHS,Open-loop PHS,Open-loop PHS,Pumped hydro storage,Croatia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,HR
-Pumped hydro storage_Cumulative total capacity_HR,Electro-mechanical energy storage,Electro-mechanical energy storage,Electro-mechanical energy storage,Pumped hydro storage,Croatia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,HR
-Pumped hydro storage_Cumulative total capacity_HR,Pumped hydro storage,Pumped hydro storage,Pumped hydro storage,Pumped hydro storage,Croatia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,HR
-Pumped hydro storage_Cumulative total capacity_HR,Open-loop PHS,Open-loop PHS,Open-loop PHS,Pumped hydro storage,Croatia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,HR
-Pumped hydro storage_Cumulative total capacity_HR,0.0,0.0,0.0,Pumped hydro storage,Croatia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,HR
-Pumped hydro storage_Cumulative total capacity_HR,,,,Pumped hydro storage,Croatia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,HR
-Pumped hydro storage_Cumulative total capacity_HR,4600,276000,1140,Pumped hydro storage,Croatia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,HR
-Pumped hydro storage_Cumulative total capacity_HR,0.0,0.0,0.0,Pumped hydro storage,Croatia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,HR
+Pumped hydro storage_Cumulative Rated Capacity_HR,,,,Pumped hydro storage,Croatia,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,HR
+Pumped hydro storage_Cumulative Rated Power_HR,4600.0,280600.0,281740.0,Pumped hydro storage,Croatia,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,HR

@@ -1,10 +1,3 @@
-ID,2012,2013,2013,2013,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Sensible heat_Cumulative total capacity_IN,Thermal energy storage,Thermal energy storage,Thermal energy storage,Thermal energy storage,Sensible heat,India,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IN
-Sensible heat_Cumulative total capacity_IN,Chilled water,Molten salt,Molten salt,Molten salt,Sensible heat,India,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IN
-Sensible heat_Cumulative total capacity_IN,Thermal energy storage,Thermal energy storage,Thermal energy storage,Thermal energy storage,Sensible heat,India,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IN
-Sensible heat_Cumulative total capacity_IN,Sensible heat,Sensible heat,Sensible heat,Sensible heat,Sensible heat,India,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IN
-Sensible heat_Cumulative total capacity_IN,Chilled water,Molten salt,Molten salt,Molten salt,Sensible heat,India,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IN
-Sensible heat_Cumulative total capacity_IN,48.0,4.0,9.0,4.0,Sensible heat,India,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IN
-Sensible heat_Cumulative total capacity_IN,8400.0,400000.0,225000.0,400000.0,Sensible heat,India,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IN
-Sensible heat_Cumulative total capacity_IN,175,100000,25000,100000,Sensible heat,India,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IN
-Sensible heat_Cumulative total capacity_IN,8400.0,400000.0,225000.0,400000.0,Sensible heat,India,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,IN
+ID,2012,2013,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Sensible heat_Cumulative Rated Capacity_IN,8400.0,633400.0,Sensible heat,India,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,IN
+Sensible heat_Cumulative Rated Power_IN,175.0,125175.0,Sensible heat,India,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,IN

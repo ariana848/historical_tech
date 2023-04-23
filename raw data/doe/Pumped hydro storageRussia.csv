@@ -1,10 +1,3 @@
 ID,1969,2003,2007,2010,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Pumped hydro storage_Cumulative total capacity_RU,Electro-mechanical energy storage,Electro-mechanical energy storage,Electro-mechanical energy storage,Electro-mechanical energy storage,Pumped hydro storage,Russia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,RU
-Pumped hydro storage_Cumulative total capacity_RU,Open-loop PHS,Open-loop PHS,Open-loop PHS,Open-loop PHS,Pumped hydro storage,Russia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,RU
-Pumped hydro storage_Cumulative total capacity_RU,Electro-mechanical energy storage,Electro-mechanical energy storage,Electro-mechanical energy storage,Electro-mechanical energy storage,Pumped hydro storage,Russia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,RU
-Pumped hydro storage_Cumulative total capacity_RU,Pumped hydro storage,Pumped hydro storage,Pumped hydro storage,Pumped hydro storage,Pumped hydro storage,Russia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,RU
-Pumped hydro storage_Cumulative total capacity_RU,Open-loop PHS,Open-loop PHS,Open-loop PHS,Open-loop PHS,Pumped hydro storage,Russia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,RU
-Pumped hydro storage_Cumulative total capacity_RU,0.0,0.0,0.0,0.0,Pumped hydro storage,Russia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,RU
-Pumped hydro storage_Cumulative total capacity_RU,,,,,Pumped hydro storage,Russia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,RU
-Pumped hydro storage_Cumulative total capacity_RU,15900,1200000,840000,140000,Pumped hydro storage,Russia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,RU
-Pumped hydro storage_Cumulative total capacity_RU,0.0,0.0,0.0,0.0,Pumped hydro storage,Russia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,RU
+Pumped hydro storage_Cumulative Rated Capacity_RU,,,,,Pumped hydro storage,Russia,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,RU
+Pumped hydro storage_Cumulative Rated Power_RU,15900.0,1215900.0,2055900.0,2195900.0,Pumped hydro storage,Russia,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,RU

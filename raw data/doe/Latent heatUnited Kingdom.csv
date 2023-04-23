@@ -1,10 +1,3 @@
-ID,2015,2015,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Latent heat_Cumulative total capacity_GB,Thermal energy storage,Thermal energy storage,Thermal energy storage,Latent heat,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Latent heat_Cumulative total capacity_GB,Liquid air energy storage,Liquid air energy storage,Liquid air energy storage,Latent heat,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Latent heat_Cumulative total capacity_GB,Thermal energy storage,Thermal energy storage,Thermal energy storage,Latent heat,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Latent heat_Cumulative total capacity_GB,Latent heat,Latent heat,Latent heat,Latent heat,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Latent heat_Cumulative total capacity_GB,Liquid air energy storage,Liquid air energy storage,Liquid air energy storage,Latent heat,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Latent heat_Cumulative total capacity_GB,3.0,7.0,7.0,Latent heat,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Latent heat_Cumulative total capacity_GB,15000.0,2450.0,2450.0,Latent heat,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Latent heat_Cumulative total capacity_GB,5000,350,350,Latent heat,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
-Latent heat_Cumulative total capacity_GB,15000.0,2450.0,2450.0,Latent heat,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,GB
+ID,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Latent heat_Cumulative Rated Capacity_GB,17450.0,Latent heat,United Kingdom,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,GB
+Latent heat_Cumulative Rated Power_GB,5350.0,Latent heat,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,GB

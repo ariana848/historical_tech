@@ -1,10 +1,3 @@
 ID,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flow battery_Cumulative total capacity_KZ,Electro-chemical battery and chemical storage,Flow battery,Kazakhstan,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,KZ
-Flow battery_Cumulative total capacity_KZ,Zinc-bromine flow battery,Flow battery,Kazakhstan,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,KZ
-Flow battery_Cumulative total capacity_KZ,Electro-chemical battery and chemical storage,Flow battery,Kazakhstan,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,KZ
-Flow battery_Cumulative total capacity_KZ,Flow battery,Flow battery,Kazakhstan,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,KZ
-Flow battery_Cumulative total capacity_KZ,Zinc-bromine flow battery,Flow battery,Kazakhstan,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,KZ
-Flow battery_Cumulative total capacity_KZ,4.0,Flow battery,Kazakhstan,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,KZ
-Flow battery_Cumulative total capacity_KZ,100000.0,Flow battery,Kazakhstan,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,KZ
-Flow battery_Cumulative total capacity_KZ,25000,Flow battery,Kazakhstan,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,KZ
-Flow battery_Cumulative total capacity_KZ,100000.0,Flow battery,Kazakhstan,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,KZ
+Flow battery_Cumulative Rated Capacity_KZ,100000.0,Flow battery,Kazakhstan,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,KZ
+Flow battery_Cumulative Rated Power_KZ,25000.0,Flow battery,Kazakhstan,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,KZ

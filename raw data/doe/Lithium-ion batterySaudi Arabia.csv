@@ -1,10 +1,3 @@
 ID,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-ion battery_Cumulative total capacity_SA,Electro-chemical battery and chemical storage,Lithium-ion battery,Saudi Arabia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,SA
-Lithium-ion battery_Cumulative total capacity_SA,Technology Sub-Type Unknown,Lithium-ion battery,Saudi Arabia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,SA
-Lithium-ion battery_Cumulative total capacity_SA,Electro-chemical battery and chemical storage,Lithium-ion battery,Saudi Arabia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,SA
-Lithium-ion battery_Cumulative total capacity_SA,Lithium-ion battery,Lithium-ion battery,Saudi Arabia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,SA
-Lithium-ion battery_Cumulative total capacity_SA,,Lithium-ion battery,Saudi Arabia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,SA
-Lithium-ion battery_Cumulative total capacity_SA,9.35,Lithium-ion battery,Saudi Arabia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,SA
-Lithium-ion battery_Cumulative total capacity_SA,187.0,Lithium-ion battery,Saudi Arabia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,SA
-Lithium-ion battery_Cumulative total capacity_SA,20,Lithium-ion battery,Saudi Arabia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,SA
-Lithium-ion battery_Cumulative total capacity_SA,187.0,Lithium-ion battery,Saudi Arabia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,SA
+Lithium-ion battery_Cumulative Rated Capacity_SA,187.0,Lithium-ion battery,Saudi Arabia,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,SA
+Lithium-ion battery_Cumulative Rated Power_SA,20.0,Lithium-ion battery,Saudi Arabia,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,SA

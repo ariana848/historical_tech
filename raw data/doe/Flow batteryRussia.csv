@@ -1,10 +1,3 @@
 ID,2014,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flow battery_Cumulative total capacity_RU,Electro-chemical battery and chemical storage,Flow battery,Russia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,RU
-Flow battery_Cumulative total capacity_RU,Zinc-bromine flow battery,Flow battery,Russia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,RU
-Flow battery_Cumulative total capacity_RU,Electro-chemical battery and chemical storage,Flow battery,Russia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,RU
-Flow battery_Cumulative total capacity_RU,Flow battery,Flow battery,Russia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,RU
-Flow battery_Cumulative total capacity_RU,Zinc-bromine flow battery,Flow battery,Russia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,RU
-Flow battery_Cumulative total capacity_RU,2.0,Flow battery,Russia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,RU
-Flow battery_Cumulative total capacity_RU,50.0,Flow battery,Russia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,RU
-Flow battery_Cumulative total capacity_RU,25,Flow battery,Russia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,RU
-Flow battery_Cumulative total capacity_RU,50.0,Flow battery,Russia,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,RU
+Flow battery_Cumulative Rated Capacity_RU,50.0,Flow battery,Russia,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,RU
+Flow battery_Cumulative Rated Power_RU,25.0,Flow battery,Russia,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,RU

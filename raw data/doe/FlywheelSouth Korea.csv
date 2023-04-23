@@ -1,10 +1,3 @@
 ID,2014,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flywheel_Cumulative total capacity_KR,Electro-mechanical energy storage,Flywheel,South Korea,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,KR
-Flywheel_Cumulative total capacity_KR,Technology Sub-Type Unknown,Flywheel,South Korea,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,KR
-Flywheel_Cumulative total capacity_KR,Electro-mechanical energy storage,Flywheel,South Korea,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,KR
-Flywheel_Cumulative total capacity_KR,Flywheel,Flywheel,South Korea,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,KR
-Flywheel_Cumulative total capacity_KR,,Flywheel,South Korea,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,KR
-Flywheel_Cumulative total capacity_KR,0.5,Flywheel,South Korea,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,KR
-Flywheel_Cumulative total capacity_KR,50.0,Flywheel,South Korea,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,KR
-Flywheel_Cumulative total capacity_KR,100,Flywheel,South Korea,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,KR
-Flywheel_Cumulative total capacity_KR,50.0,Flywheel,South Korea,kW,DOE Global Energy Storage Database,Cumulative total capacity,National,KR
+Flywheel_Cumulative Rated Capacity_KR,50.0,Flywheel,South Korea,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,KR
+Flywheel_Cumulative Rated Power_KR,100.0,Flywheel,South Korea,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,KR
