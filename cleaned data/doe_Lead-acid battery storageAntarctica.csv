@@ -1,0 +1,3 @@
+ID,2006,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Lead-acid battery storage_Cumulative Rated Capacity_AQ,400.0,Lead-acid battery storage,Antarctica,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,AQ
+Lead-acid battery storage_Cumulative Rated Power_AQ,500.0,Lead-acid battery storage,Antarctica,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,AQ

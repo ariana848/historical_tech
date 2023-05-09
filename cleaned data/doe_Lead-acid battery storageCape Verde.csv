@@ -1,0 +1,3 @@
+ID,2011,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
+Lead-acid battery storage_Cumulative Rated Capacity_CV,431.76,Lead-acid battery storage,Cape Verde,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,CV
+Lead-acid battery storage_Cumulative Rated Power_CV,28.0,Lead-acid battery storage,Cape Verde,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,CV
