@@ -1,2 +1,2 @@
-,1972,1973,1974,1975,1976,1977,1978,1979,1980,1981,1982,1983,1984,Technology Name,Country Name,Country Code,Spatial Scale,Unit,Metric,Data Source,ID
-0,0.5,4.5,16.0,42.5,64.0,81.0,82.0,87.0,91.0,95.5,98.5,100.0,100.0,Radial tires,United States,US,National,Percentage,Share of households,OWD,Radial tires_Share of households_US
+ID,1972,1973,1974,1975,1976,1977,1978,1979,1980,1981,1982,1983,1984,Technology Name,Country Name,Country Code,Spatial Scale,Unit,Metric,Data Source
+Radial tires_Share of households_US,0.5,4.5,16.0,42.5,64.0,81.0,82.0,87.0,91.0,95.5,98.5,100.0,100.0,Radial tires,United States,US,National,Percentage,Share of households,OWD
