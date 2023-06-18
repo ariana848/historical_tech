@@ -1,3 +1,2 @@
 ID,2012,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Sodium-based battery storage_Cumulative Rated Capacity_KR,138.6,Sodium-based battery storage,South Korea,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,KR
-Sodium-based battery storage_Cumulative Rated Power_KR,198.0,Sodium-based battery storage,South Korea,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,KR
+Sodium-based battery storage_Cumulative Total Capacity_KR,198,Sodium-based battery storage,South Korea,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,KR

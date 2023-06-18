@@ -1,3 +1,2 @@
 ID,2019,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Sodium-based battery storage_Cumulative Rated Capacity_AU,30.0,Sodium-based battery storage,Australia,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,AU
-Sodium-based battery storage_Cumulative Rated Power_AU,30.0,Sodium-based battery storage,Australia,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,AU
+Sodium-based battery storage_Cumulative Total Capacity_AU,30,Sodium-based battery storage,Australia,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,AU

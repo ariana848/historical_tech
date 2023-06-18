@@ -1,3 +1,2 @@
 ID,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Nickel-based battery_Cumulative Rated Capacity_QA,0.0,Nickel-based battery,Qatar,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,QA
-Nickel-based battery_Cumulative Rated Power_QA,2000.0,Nickel-based battery,Qatar,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,QA
+Nickel-based battery_Cumulative Total Capacity_QA,2000,Nickel-based battery,Qatar,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,QA

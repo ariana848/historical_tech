@@ -1,3 +1,2 @@
 ID,2012,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lead-acid battery storage_Cumulative Rated Capacity_TW,7.2,Lead-acid battery storage,Taiwan,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,TW
-Lead-acid battery storage_Cumulative Rated Power_TW,2.0,Lead-acid battery storage,Taiwan,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,TW
+Lead-acid battery storage_Cumulative Total Capacity_TW,2,Lead-acid battery storage,Taiwan,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,TW

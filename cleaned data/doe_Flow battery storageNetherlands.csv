@@ -1,3 +1,2 @@
 ID,2010,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flow battery storage_Cumulative Rated Capacity_NL,80.0,Flow battery storage,Netherlands,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,NL
-Flow battery storage_Cumulative Rated Power_NL,10.0,Flow battery storage,Netherlands,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,NL
+Flow battery storage_Cumulative Total Capacity_NL,10,Flow battery storage,Netherlands,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,NL

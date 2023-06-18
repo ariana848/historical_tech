@@ -1,3 +1,2 @@
 ID,2013,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flow battery storage_Cumulative Rated Capacity_AT,181.12,Flow battery storage,Austria,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,AT
-Flow battery storage_Cumulative Rated Power_AT,64.0,Flow battery storage,Austria,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,AT
+Flow battery storage_Cumulative Total Capacity_AT,64,Flow battery storage,Austria,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,AT

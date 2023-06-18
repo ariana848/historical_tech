@@ -1,3 +1,2 @@
 ID,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flow battery storage_Cumulative Rated Capacity_CZ,169.9,Flow battery storage,Czech Republic,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,CZ
-Flow battery storage_Cumulative Rated Power_CZ,40.0,Flow battery storage,Czech Republic,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,CZ
+Flow battery storage_Cumulative Total Capacity_CZ,40,Flow battery storage,Czech Republic,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,CZ

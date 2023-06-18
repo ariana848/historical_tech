@@ -1,3 +1,2 @@
 ID,2007,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flow battery storage_Cumulative Rated Capacity_DK,120.0,Flow battery storage,Denmark,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,DK
-Flow battery storage_Cumulative Rated Power_DK,15.0,Flow battery storage,Denmark,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,DK
+Flow battery storage_Cumulative Total Capacity_DK,15,Flow battery storage,Denmark,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,DK

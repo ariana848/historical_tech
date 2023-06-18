@@ -1,3 +1,2 @@
 ID,2014,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flow battery storage_Cumulative Rated Capacity_PF,2000.0,Flow battery storage,French Polynesia,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,PF
-Flow battery storage_Cumulative Rated Power_PF,1000.0,Flow battery storage,French Polynesia,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,PF
+Flow battery storage_Cumulative Total Capacity_PF,1000,Flow battery storage,French Polynesia,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,PF

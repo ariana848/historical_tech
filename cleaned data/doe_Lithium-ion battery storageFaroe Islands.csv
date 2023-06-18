@@ -1,3 +1,2 @@
 ID,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-ion battery storage_Cumulative Rated Capacity_FO,690.0,Lithium-ion battery storage,Faroe Islands,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,FO
-Lithium-ion battery storage_Cumulative Rated Power_FO,2300.0,Lithium-ion battery storage,Faroe Islands,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,FO
+Lithium-ion battery storage_Cumulative Total Capacity_FO,2300,Lithium-ion battery storage,Faroe Islands,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,FO

@@ -1,3 +1,2 @@
 ID,2012,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-ion battery storage_Cumulative Rated Capacity_QA,500.0,Lithium-ion battery storage,Qatar,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,QA
-Lithium-ion battery storage_Cumulative Rated Power_QA,250.0,Lithium-ion battery storage,Qatar,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,QA
+Lithium-ion battery storage_Cumulative Total Capacity_QA,250,Lithium-ion battery storage,Qatar,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,QA

@@ -1,3 +1,2 @@
 ID,2015,2017,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-ion battery storage_Cumulative Rated Capacity_BJ,360.0,760.0,Lithium-ion battery storage,Benin,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,BJ
-Lithium-ion battery storage_Cumulative Rated Power_BJ,90.0,190.0,Lithium-ion battery storage,Benin,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,BJ
+Lithium-ion battery storage_Cumulative Total Capacity_BJ,90,190,Lithium-ion battery storage,Benin,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,BJ

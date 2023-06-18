@@ -1,3 +1,2 @@
 ID,2002,2006,2008,2009,2010,2011,2012,2013,2014,2015,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Sodium-based battery storage_Cumulative Rated Capacity_US,0.0,7200.0,26400.0,32900.0,64900.0,65181.4,92491.4,122081.4,124981.4,126035.59999999999,128023.2,Sodium-based battery storage,United States,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,US
-Sodium-based battery storage_Cumulative Rated Power_US,2000.0,3200.0,6200.0,7200.0,11200.0,11602.0,15642.0,20107.0,21407.0,21877.0,22232.0,Sodium-based battery storage,United States,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,US
+Sodium-based battery storage_Cumulative Total Capacity_US,2000,3200,6200,7200,11200,11602,14642,19107,20307,20767,21122,Sodium-based battery storage,United States,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,US

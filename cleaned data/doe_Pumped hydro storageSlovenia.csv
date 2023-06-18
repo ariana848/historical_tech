@@ -1,3 +1,2 @@
 ID,2010,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Pumped hydro storage_Cumulative Rated Capacity_SI,0.0,Pumped hydro storage,Slovenia,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,SI
-Pumped hydro storage_Cumulative Rated Power_SI,185000.0,Pumped hydro storage,Slovenia,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,SI
+Pumped hydro storage_Cumulative Total Capacity_SI,185000,Pumped hydro storage,Slovenia,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,SI

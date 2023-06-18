@@ -1,3 +1,2 @@
 ID,2012,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lead-acid battery storage_Cumulative Rated Capacity_IN,0.0,Lead-acid battery storage,India,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,IN
-Lead-acid battery storage_Cumulative Rated Power_IN,40.0,Lead-acid battery storage,India,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,IN
+Lead-acid battery storage_Cumulative Total Capacity_IN,40,Lead-acid battery storage,India,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,IN

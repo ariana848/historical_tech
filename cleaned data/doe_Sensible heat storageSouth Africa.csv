@@ -1,3 +1,2 @@
 ID,2015,2016,2017,2018,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Sensible heat storage_Cumulative Rated Capacity_ZA,700000.0,1195000.0,1745000.0,2945000.0,Sensible heat storage,South Africa,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,ZA
-Sensible heat storage_Cumulative Rated Power_ZA,200000.0,255000.0,355000.0,455000.0,Sensible heat storage,South Africa,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,ZA
+Sensible heat storage_Cumulative Total Capacity_ZA,100000,155000,255000,355000,Sensible heat storage,South Africa,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,ZA

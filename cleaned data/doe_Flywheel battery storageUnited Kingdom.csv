@@ -1,3 +1,2 @@
 ID,2006,2017,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flywheel battery storage_Cumulative Rated Capacity_GB,0.0,200.0,Flywheel battery storage,United Kingdom,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,GB
-Flywheel battery storage_Cumulative Rated Power_GB,400000.0,401000.0,Flywheel battery storage,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,GB
+Flywheel battery storage_Cumulative Total Capacity_GB,400000,401000,Flywheel battery storage,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,GB

@@ -1,3 +1,2 @@
 ID,2013,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lead-acid battery storage_Cumulative Rated Capacity_NZ,25.0,Lead-acid battery storage,New Zealand,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,NZ
-Lead-acid battery storage_Cumulative Rated Power_NZ,5.0,Lead-acid battery storage,New Zealand,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,NZ
+Lead-acid battery storage_Cumulative Total Capacity_NZ,5,Lead-acid battery storage,New Zealand,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,NZ

@@ -1,3 +1,2 @@
 ID,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lead-acid battery storage_Cumulative Rated Capacity_VU,72.0,Lead-acid battery storage,Vanuatu,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,VU
-Lead-acid battery storage_Cumulative Rated Power_VU,15.0,Lead-acid battery storage,Vanuatu,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,VU
+Lead-acid battery storage_Cumulative Total Capacity_VU,15,Lead-acid battery storage,Vanuatu,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,VU

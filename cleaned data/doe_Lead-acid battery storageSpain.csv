@@ -1,3 +1,2 @@
 ID,2015,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lead-acid battery storage_Cumulative Rated Capacity_ES,15.0,111.0,Lead-acid battery storage,Spain,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,ES
-Lead-acid battery storage_Cumulative Rated Power_ES,50.0,90.0,Lead-acid battery storage,Spain,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,ES
+Lead-acid battery storage_Cumulative Total Capacity_ES,50,90,Lead-acid battery storage,Spain,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,ES

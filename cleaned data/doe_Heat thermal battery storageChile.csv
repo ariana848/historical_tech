@@ -1,3 +1,2 @@
 ID,2012,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Heat thermal battery storage_Cumulative Rated Capacity_CL,68250.0,Heat thermal battery storage,Chile,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,CL
-Heat thermal battery storage_Cumulative Rated Power_CL,10500.0,Heat thermal battery storage,Chile,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,CL
+Heat thermal battery storage_Cumulative Total Capacity_CL,10500,Heat thermal battery storage,Chile,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,CL

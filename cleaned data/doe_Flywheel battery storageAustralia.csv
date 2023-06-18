@@ -1,3 +1,2 @@
 ID,2007,2010,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flywheel battery storage_Cumulative Rated Capacity_AU,0.0,0.0,Flywheel battery storage,Australia,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,AU
-Flywheel battery storage_Cumulative Rated Power_AU,500.0,1000.0,Flywheel battery storage,Australia,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,AU
+Flywheel battery storage_Cumulative Total Capacity_AU,500,1000,Flywheel battery storage,Australia,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,AU

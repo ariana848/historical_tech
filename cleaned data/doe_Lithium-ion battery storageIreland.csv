@@ -1,3 +1,2 @@
 ID,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-ion battery storage_Cumulative Rated Capacity_IE,150.0,Lithium-ion battery storage,Ireland,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,IE
-Lithium-ion battery storage_Cumulative Rated Power_IE,1300.0,Lithium-ion battery storage,Ireland,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,IE
+Lithium-ion battery storage_Cumulative Total Capacity_IE,1300,Lithium-ion battery storage,Ireland,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,IE

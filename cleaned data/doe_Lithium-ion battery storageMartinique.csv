@@ -1,3 +1,2 @@
 ID,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-ion battery storage_Cumulative Rated Capacity_MQ,1977.6,Lithium-ion battery storage,Martinique,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,MQ
-Lithium-ion battery storage_Cumulative Rated Power_MQ,2472.0,Lithium-ion battery storage,Martinique,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,MQ
+Lithium-ion battery storage_Cumulative Total Capacity_MQ,2472,Lithium-ion battery storage,Martinique,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,MQ

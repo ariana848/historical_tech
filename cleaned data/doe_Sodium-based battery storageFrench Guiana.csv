@@ -1,3 +1,2 @@
 ID,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Sodium-based battery storage_Cumulative Rated Capacity_GF,4480.0,Sodium-based battery storage,French Guiana,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,GF
-Sodium-based battery storage_Cumulative Rated Power_GF,1600.0,Sodium-based battery storage,French Guiana,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,GF
+Sodium-based battery storage_Cumulative Total Capacity_GF,1600,Sodium-based battery storage,French Guiana,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,GF

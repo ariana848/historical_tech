@@ -1,3 +1,2 @@
 ID,2012,2014,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-ion battery storage_Cumulative Rated Capacity_RU,2505.0,5010.0,Lithium-ion battery storage,Russia,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,RU
-Lithium-ion battery storage_Cumulative Rated Power_RU,1500.0,3000.0,Lithium-ion battery storage,Russia,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,RU
+Lithium-ion battery storage_Cumulative Total Capacity_RU,1500,3000,Lithium-ion battery storage,Russia,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,RU

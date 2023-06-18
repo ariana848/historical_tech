@@ -1,3 +1,2 @@
 ID,2013,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flow battery storage_Cumulative Rated Capacity_IL,100.0,Flow battery storage,Israel,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,IL
-Flow battery storage_Cumulative Rated Power_IL,50.0,Flow battery storage,Israel,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,IL
+Flow battery storage_Cumulative Total Capacity_IL,50,Flow battery storage,Israel,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,IL

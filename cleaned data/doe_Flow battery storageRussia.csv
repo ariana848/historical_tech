@@ -1,3 +1,2 @@
 ID,2014,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flow battery storage_Cumulative Rated Capacity_RU,50.0,Flow battery storage,Russia,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,RU
-Flow battery storage_Cumulative Rated Power_RU,25.0,Flow battery storage,Russia,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,RU
+Flow battery storage_Cumulative Total Capacity_RU,25,Flow battery storage,Russia,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,RU

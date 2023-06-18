@@ -1,3 +1,2 @@
 ID,2011,2013,2014,2015,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lead-acid battery storage_Cumulative Rated Capacity_AU,500.0,2090.0,3004.38,3024.38,3354.1800000000003,Lead-acid battery storage,Australia,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,AU
-Lead-acid battery storage_Cumulative Rated Power_AU,1000.0,4000.0,4184.0,4204.0,4289.0,Lead-acid battery storage,Australia,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,AU
+Lead-acid battery storage_Cumulative Total Capacity_AU,1000,4000,4184,4204,4289,Lead-acid battery storage,Australia,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,AU

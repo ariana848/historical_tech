@@ -1,3 +1,2 @@
 ID,2014,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-ion battery storage_Cumulative Rated Capacity_BO,1100.0,Lithium-ion battery storage,Bolivia,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,BO
-Lithium-ion battery storage_Cumulative Rated Power_BO,2200.0,Lithium-ion battery storage,Bolivia,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,BO
+Lithium-ion battery storage_Cumulative Total Capacity_BO,2200,Lithium-ion battery storage,Bolivia,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,BO

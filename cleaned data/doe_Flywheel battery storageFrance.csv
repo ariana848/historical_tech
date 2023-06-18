@@ -1,3 +1,2 @@
 ID,2014,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flywheel battery storage_Cumulative Rated Capacity_FR,100.0,100.0,Flywheel battery storage,France,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,FR
-Flywheel battery storage_Cumulative Rated Power_FR,100.0,100.0,Flywheel battery storage,France,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,FR
+Flywheel battery storage_Cumulative Total Capacity_FR,100,100,Flywheel battery storage,France,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,FR

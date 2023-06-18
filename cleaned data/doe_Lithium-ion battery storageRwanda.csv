@@ -1,3 +1,2 @@
 ID,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-ion battery storage_Cumulative Rated Capacity_RW,2680.0,Lithium-ion battery storage,Rwanda,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,RW
-Lithium-ion battery storage_Cumulative Rated Power_RW,2680.0,Lithium-ion battery storage,Rwanda,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,RW
+Lithium-ion battery storage_Cumulative Total Capacity_RW,2680,Lithium-ion battery storage,Rwanda,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,RW

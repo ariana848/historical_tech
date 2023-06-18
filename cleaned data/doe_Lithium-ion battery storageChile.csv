@@ -1,3 +1,2 @@
 ID,2009,2012,2014,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-ion battery storage_Cumulative Rated Capacity_CL,12000.0,25000.0,28960.0,Lithium-ion battery storage,Chile,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,CL
-Lithium-ion battery storage_Cumulative Rated Power_CL,12000.0,52000.0,64000.0,Lithium-ion battery storage,Chile,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,CL
+Lithium-ion battery storage_Cumulative Total Capacity_CL,12000,32000,44000,Lithium-ion battery storage,Chile,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,CL

@@ -1,3 +1,2 @@
 ID,2013,2014,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Electro-chemical capacitor_Cumulative Rated Capacity_ES,20000.0,20000.0,20010.0,Electro-chemical capacitor,Spain,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,ES
-Electro-chemical capacitor_Cumulative Rated Power_ES,4000.0,4300.0,4350.0,Electro-chemical capacitor,Spain,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,ES
+Electro-chemical capacitor_Cumulative Total Capacity_ES,4000,4300,4350,Electro-chemical capacitor,Spain,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,ES

@@ -1,3 +1,2 @@
 ID,1991,1996,2002,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Pumped hydro storage_Cumulative Rated Capacity_TH,0.0,0.0,0.0,Pumped hydro storage,Thailand,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,TH
-Pumped hydro storage_Cumulative Rated Power_TH,720000.0,891000.0,1391000.0,Pumped hydro storage,Thailand,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,TH
+Pumped hydro storage_Cumulative Total Capacity_TH,720000,891000,1391000,Pumped hydro storage,Thailand,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,TH

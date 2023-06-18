@@ -1,3 +1,2 @@
 ID,2014,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Heat thermal battery storage_Cumulative Rated Capacity_MA,5850.0,Heat thermal battery storage,Morocco,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,MA
-Heat thermal battery storage_Cumulative Rated Power_MA,650.0,Heat thermal battery storage,Morocco,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,MA
+Heat thermal battery storage_Cumulative Total Capacity_MA,650,Heat thermal battery storage,Morocco,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,MA
