@@ -1,2 +1,3 @@
 ID,2012,2013,2014,2015,2016,2017,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-ion battery storage_Cumulative Total Capacity_DE,227,972,49460,68374,166374,181374,Lithium-ion battery storage,Germany,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,DE
+Lithium-Ion Battery Storage_Cumulative Rated Power_DE,227,972,64490,83404,196404,226404,Lithium-Ion Battery Storage,Germany,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,DE
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_DE,227,972,64490,83404,196404,226404,Lithium-Ion Battery Storage,Germany,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,DE

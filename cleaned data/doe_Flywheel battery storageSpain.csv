@@ -1,2 +1,3 @@
 ID,2012,2013,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flywheel battery storage_Cumulative Total Capacity_ES,1600,2100,Flywheel battery storage,Spain,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,ES
+Flywheel Battery Storage_Cumulative Rated Power_ES,1600,2100,Flywheel Battery Storage,Spain,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,ES
+Flywheel Battery Storage_Cumulative Rated Capacity_ES,1600,2100,Flywheel Battery Storage,Spain,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,ES

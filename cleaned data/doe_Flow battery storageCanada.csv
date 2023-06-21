@@ -1,2 +1,3 @@
 ID,2016,2017,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flow battery storage_Cumulative Total Capacity_CA,2000,7000,Flow battery storage,Canada,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,CA
+Flow Battery Storage_Cumulative Rated Power_CA,4000,9000,Flow Battery Storage,Canada,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,CA
+Flow Battery Storage_Cumulative Rated Capacity_CA,4000,9000,Flow Battery Storage,Canada,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,CA

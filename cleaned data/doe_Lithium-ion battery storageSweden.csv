@@ -1,2 +1,3 @@
 ID,2011,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-ion battery storage_Cumulative Total Capacity_SE,75,Lithium-ion battery storage,Sweden,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,SE
+Lithium-Ion Battery Storage_Cumulative Rated Power_SE,75,Lithium-Ion Battery Storage,Sweden,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,SE
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_SE,75,Lithium-Ion Battery Storage,Sweden,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,SE

@@ -1,2 +1,3 @@
 ID,2014,2016,2017,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flywheel battery storage_Cumulative Total Capacity_CA,2000,7000,12000,Flywheel battery storage,Canada,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,CA
+Flywheel Battery Storage_Cumulative Rated Power_CA,2000,7000,12000,Flywheel Battery Storage,Canada,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,CA
+Flywheel Battery Storage_Cumulative Rated Capacity_CA,2000,7000,12000,Flywheel Battery Storage,Canada,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,CA

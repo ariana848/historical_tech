@@ -1,2 +1,3 @@
 ID,2003,2010,2012,2013,2014,2015,2016,2017,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flow battery storage_Cumulative Total Capacity_AU,200,300,690,835,865,1165,1275,1575,Flow battery storage,Australia,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,AU
+Flow Battery Storage_Cumulative Rated Power_AU,200,300,690,835,865,1165,1275,1575,Flow Battery Storage,Australia,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,AU
+Flow Battery Storage_Cumulative Rated Capacity_AU,200,300,690,835,865,1165,1275,1575,Flow Battery Storage,Australia,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,AU

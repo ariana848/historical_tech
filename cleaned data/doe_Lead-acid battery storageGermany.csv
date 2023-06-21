@@ -1,2 +1,3 @@
 ID,1987,2014,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lead-acid battery storage_Cumulative Total Capacity_DE,8500,10090,15090,Lead-acid battery storage,Germany,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,DE
+Lead-Acid Battery Storage_Cumulative Rated Power_DE,8500,10090,15090,Lead-Acid Battery Storage,Germany,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,DE
+Lead-Acid Battery Storage_Cumulative Rated Capacity_DE,8500,10090,15090,Lead-Acid Battery Storage,Germany,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,DE

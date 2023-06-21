@@ -1,2 +1,3 @@
 ID,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-ion battery storage_Cumulative Total Capacity_PH,10000,Lithium-ion battery storage,Philippines,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,PH
+Lithium-Ion Battery Storage_Cumulative Rated Power_PH,10000,Lithium-Ion Battery Storage,Philippines,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,PH
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_PH,10000,Lithium-Ion Battery Storage,Philippines,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,PH

@@ -1,2 +1,3 @@
 ID,2011,2013,2014,2015,2017,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flow battery storage_Cumulative Total Capacity_DE,260,460,785,1025,1225,Flow battery storage,Germany,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,DE
+Flow Battery Storage_Cumulative Rated Power_DE,260,460,785,1035,1435,Flow Battery Storage,Germany,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,DE
+Flow Battery Storage_Cumulative Rated Capacity_DE,260,460,785,1035,1435,Flow Battery Storage,Germany,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,DE

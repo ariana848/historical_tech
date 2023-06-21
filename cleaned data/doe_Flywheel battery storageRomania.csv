@@ -1,2 +1,3 @@
 ID,2011,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flywheel battery storage_Cumulative Total Capacity_RO,300,Flywheel battery storage,Romania,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,RO
+Flywheel Battery Storage_Cumulative Rated Power_RO,300,Flywheel Battery Storage,Romania,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,RO
+Flywheel Battery Storage_Cumulative Rated Capacity_RO,300,Flywheel Battery Storage,Romania,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,RO

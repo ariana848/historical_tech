@@ -1,2 +1,3 @@
 ID,2012,2013,2014,2015,2016,2018,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-ion battery storage_Cumulative Total Capacity_KR,2090,9440,21240,89740,149740,162740,Lithium-ion battery storage,South Korea,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,KR
+Lithium-Ion Battery Storage_Cumulative Rated Power_KR,2090,10690,24490,92990,176990,189990,Lithium-Ion Battery Storage,South Korea,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,KR
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_KR,2090,10690,24490,92990,176990,189990,Lithium-Ion Battery Storage,South Korea,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,KR

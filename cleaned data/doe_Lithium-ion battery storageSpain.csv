@@ -1,2 +1,3 @@
 ID,2010,2012,2013,2014,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-ion battery storage_Cumulative Total Capacity_ES,106,1106,2206,3576,Lithium-ion battery storage,Spain,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,ES
+Lithium-Ion Battery Storage_Cumulative Rated Power_ES,106,1106,2206,3576,Lithium-Ion Battery Storage,Spain,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,ES
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_ES,106,1106,2206,3576,Lithium-Ion Battery Storage,Spain,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,ES

@@ -1,2 +1,3 @@
 ID,2012,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Electro-chemical capacitor_Cumulative Total Capacity_IT,1920,Electro-chemical capacitor,Italy,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,IT
+Electro-Chemical Capacitor_Cumulative Rated Power_IT,1920,Electro-Chemical Capacitor,Italy,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,IT
+Electro-Chemical Capacitor_Cumulative Rated Capacity_IT,1920,Electro-Chemical Capacitor,Italy,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,IT

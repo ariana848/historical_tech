@@ -1,2 +1,3 @@
 ID,1987,1988,1994,1996,1997,2000,2004,2009,2010,2011,2012,2013,2014,2015,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lead-acid battery storage_Cumulative Total Capacity_US,500,10500,30500,37750,38750,48750,68750,70250,70358,88108,105374,107106,118206,123906,136466,Lead-acid battery storage,United States,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,US
+Lead-Acid Battery Storage_Cumulative Rated Power_US,500,10500,30500,37750,38750,48750,68750,70250,70358,88608,111874,113906,125006,130706,143266,Lead-Acid Battery Storage,United States,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,US
+Lead-Acid Battery Storage_Cumulative Rated Capacity_US,500,10500,30500,37750,38750,48750,68750,70250,70358,88608,111874,113906,125006,130706,143266,Lead-Acid Battery Storage,United States,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,US

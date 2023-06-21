@@ -1,2 +1,3 @@
 ID,1984,1986,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Pumped hydro storage_Cumulative Total Capacity_AR,224000,974000,Pumped hydro storage,Argentina,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,AR
+Pumped Hydro Storage_Cumulative Rated Power_AR,224000,974000,Pumped Hydro Storage,Argentina,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,AR
+Pumped Hydro Storage_Cumulative Rated Capacity_AR,224000,974000,Pumped Hydro Storage,Argentina,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,AR

@@ -1,2 +1,3 @@
 ID,2008,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Heat thermal battery storage_Cumulative Total Capacity_DE,1500,Heat thermal battery storage,Germany,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,DE
+Heat Thermal Battery Storage_Cumulative Rated Power_DE,1500,Heat Thermal Battery Storage,Germany,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,DE
+Heat Thermal Battery Storage_Cumulative Rated Capacity_DE,1500,Heat Thermal Battery Storage,Germany,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,DE

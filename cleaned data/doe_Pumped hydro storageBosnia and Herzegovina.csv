@@ -1,2 +1,3 @@
 ID,1979,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Pumped hydro storage_Cumulative Total Capacity_BA,420000,Pumped hydro storage,Bosnia and Herzegovina,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,BA
+Pumped Hydro Storage_Cumulative Rated Power_BA,420000,Pumped Hydro Storage,Bosnia and Herzegovina,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,BA
+Pumped Hydro Storage_Cumulative Rated Capacity_BA,420000,Pumped Hydro Storage,Bosnia and Herzegovina,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,BA

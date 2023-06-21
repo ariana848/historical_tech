@@ -1,2 +1,3 @@
 ID,2011,2013,2014,2015,2016,2017,2018,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-ion battery storage_Cumulative Total Capacity_AU,25,85,1510,2543,17499,146284,178284,Lithium-ion battery storage,Australia,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,AU
+Lithium-Ion Battery Storage_Cumulative Rated Power_AU,25,85,2510,3543,18499,269284,301284,Lithium-Ion Battery Storage,Australia,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,AU
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_AU,25,85,2510,3543,18499,269284,301284,Lithium-Ion Battery Storage,Australia,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,AU

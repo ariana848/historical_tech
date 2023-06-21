@@ -1,2 +1,3 @@
 ID,2011,2012,2013,2014,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-ion battery storage_Cumulative Total Capacity_IT,25,23025,24057,29337,31537,Lithium-ion battery storage,Italy,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,IT
+Lithium-Ion Battery Storage_Cumulative Rated Power_IT,25,23025,24057,33337,37537,Lithium-Ion Battery Storage,Italy,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,IT
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_IT,25,23025,24057,33337,37537,Lithium-Ion Battery Storage,Italy,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,IT

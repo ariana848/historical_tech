@@ -1,2 +1,3 @@
 ID,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-ion battery storage_Cumulative Total Capacity_US,1000,9600,49306,65725,131257,269500,438201,1024814,1076324,1422824,1446014,1491404,Lithium-ion battery storage,United States,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,US
+Lithium-Ion Battery Storage_Cumulative Rated Power_US,1000,9600,49631,68390,137167,277986,502748,1150457,1212217,1558717,1581907,1627297,Lithium-Ion Battery Storage,United States,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,US
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_US,1000,9600,49631,68390,137167,277986,502748,1150457,1212217,1558717,1581907,1627297,Lithium-Ion Battery Storage,United States,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,US

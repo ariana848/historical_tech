@@ -1,2 +1,3 @@
 ID,2012,2013,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-ion battery storage_Cumulative Total Capacity_DK,1200,1600,Lithium-ion battery storage,Denmark,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,DK
+Lithium-Ion Battery Storage_Cumulative Rated Power_DK,1200,1600,Lithium-Ion Battery Storage,Denmark,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,DK
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_DK,1200,1600,Lithium-Ion Battery Storage,Denmark,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,DK

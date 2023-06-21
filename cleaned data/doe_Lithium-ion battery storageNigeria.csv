@@ -1,2 +1,3 @@
 ID,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-ion battery storage_Cumulative Total Capacity_NG,1100,Lithium-ion battery storage,Nigeria,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,NG
+Lithium-Ion Battery Storage_Cumulative Rated Power_NG,1100,Lithium-Ion Battery Storage,Nigeria,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,NG
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_NG,1100,Lithium-Ion Battery Storage,Nigeria,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,NG

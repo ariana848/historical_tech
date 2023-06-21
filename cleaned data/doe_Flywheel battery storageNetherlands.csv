@@ -1,2 +1,3 @@
 ID,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flywheel battery storage_Cumulative Total Capacity_NL,5000,Flywheel battery storage,Netherlands,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,NL
+Flywheel Battery Storage_Cumulative Rated Power_NL,5000,Flywheel Battery Storage,Netherlands,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,NL
+Flywheel Battery Storage_Cumulative Rated Capacity_NL,5000,Flywheel Battery Storage,Netherlands,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,NL

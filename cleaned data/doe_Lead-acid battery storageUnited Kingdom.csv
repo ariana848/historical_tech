@@ -1,2 +1,3 @@
 ID,2006,2009,2013,2014,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lead-acid battery storage_Cumulative Total Capacity_GB,5,17,62,107,Lead-acid battery storage,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,GB
+Lead-Acid Battery Storage_Cumulative Rated Power_GB,5,17,62,107,Lead-Acid Battery Storage,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,GB
+Lead-Acid Battery Storage_Cumulative Rated Capacity_GB,5,17,62,107,Lead-Acid Battery Storage,United Kingdom,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,GB

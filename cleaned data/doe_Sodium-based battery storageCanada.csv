@@ -1,2 +1,3 @@
 ID,2013,2014,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Sodium-based battery storage_Cumulative Total Capacity_CA,1000,2000,Sodium-based battery storage,Canada,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,CA
+Sodium-Based Battery Storage_Cumulative Rated Power_CA,1000,2000,Sodium-Based Battery Storage,Canada,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,CA
+Sodium-Based Battery Storage_Cumulative Rated Capacity_CA,1000,2000,Sodium-Based Battery Storage,Canada,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,CA

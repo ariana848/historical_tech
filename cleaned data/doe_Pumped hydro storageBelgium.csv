@@ -1,2 +1,3 @@
 ID,1979,1981,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Pumped hydro storage_Cumulative Total Capacity_BE,1164000,1307000,Pumped hydro storage,Belgium,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,BE
+Pumped Hydro Storage_Cumulative Rated Power_BE,1164000,1307000,Pumped Hydro Storage,Belgium,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,BE
+Pumped Hydro Storage_Cumulative Rated Capacity_BE,1164000,1307000,Pumped Hydro Storage,Belgium,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,BE

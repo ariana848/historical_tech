@@ -1,2 +1,3 @@
 ID,2000,2005,2012,2014,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flow battery storage_Cumulative Total Capacity_JP,3000,7000,8000,8030,23030,Flow battery storage,Japan,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,JP
+Flow Battery Storage_Cumulative Rated Power_JP,3000,7000,8000,8030,23030,Flow Battery Storage,Japan,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,JP
+Flow Battery Storage_Cumulative Rated Capacity_JP,3000,7000,8000,8030,23030,Flow Battery Storage,Japan,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,JP

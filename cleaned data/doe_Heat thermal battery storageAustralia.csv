@@ -1,2 +1,3 @@
 ID,2011,2017,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Heat thermal battery storage_Cumulative Total Capacity_AU,3000,4100,Heat thermal battery storage,Australia,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,AU
+Heat Thermal Battery Storage_Cumulative Rated Power_AU,3000,4100,Heat Thermal Battery Storage,Australia,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,AU
+Heat Thermal Battery Storage_Cumulative Rated Capacity_AU,3000,4100,Heat Thermal Battery Storage,Australia,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,AU

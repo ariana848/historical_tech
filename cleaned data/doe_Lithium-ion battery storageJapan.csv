@@ -1,2 +1,3 @@
 ID,2010,2012,2013,2014,2015,2016,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-ion battery storage_Cumulative Total Capacity_JP,100,2268,3595,10295,53295,99795,Lithium-ion battery storage,Japan,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,JP
+Lithium-Ion Battery Storage_Cumulative Rated Power_JP,100,2268,3595,13895,56895,103395,Lithium-Ion Battery Storage,Japan,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,JP
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_JP,100,2268,3595,13895,56895,103395,Lithium-Ion Battery Storage,Japan,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,JP

@@ -1,2 +1,3 @@
 ID,2014,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Heat thermal battery storage_Cumulative Total Capacity_GB,1400,Heat thermal battery storage,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,GB
+Heat Thermal Battery Storage_Cumulative Rated Power_GB,1400,Heat Thermal Battery Storage,United Kingdom,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,GB
+Heat Thermal Battery Storage_Cumulative Rated Capacity_GB,1400,Heat Thermal Battery Storage,United Kingdom,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,GB

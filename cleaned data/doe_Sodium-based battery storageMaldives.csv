@@ -1,2 +1,3 @@
 ID,2013,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Sodium-based battery storage_Cumulative Total Capacity_MV,600,Sodium-based battery storage,Maldives,kW,DOE Global Energy Storage Database,Cumulative Total Capacity,National,MV
+Sodium-Based Battery Storage_Cumulative Rated Power_MV,600,Sodium-Based Battery Storage,Maldives,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,MV
+Sodium-Based Battery Storage_Cumulative Rated Capacity_MV,600,Sodium-Based Battery Storage,Maldives,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,MV
