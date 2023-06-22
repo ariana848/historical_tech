@@ -1,3 +1,3 @@
 ID,2015,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Flywheel battery storage_Cumulative Rated Capacity_DE,54.6,Flywheel battery storage,Germany,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,DE
-Flywheel battery storage_Cumulative Rated Power_DE,420.0,Flywheel battery storage,Germany,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,DE
+Flywheel Battery Storage_Cumulative Rated Power_DE,420,Flywheel Battery Storage,Germany,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,DE
+Flywheel Battery Storage_Cumulative Rated Capacity_DE,420,Flywheel Battery Storage,Germany,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,DE

@@ -1,3 +1,3 @@
 ID,2010,2012,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-ion battery storage_Cumulative Rated Capacity_TW,250.0,1750.0,Lithium-ion battery storage,Taiwan,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,TW
-Lithium-ion battery storage_Cumulative Rated Power_TW,100.0,725.0,Lithium-ion battery storage,Taiwan,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,TW
+Lithium-Ion Battery Storage_Cumulative Rated Power_TW,100,725,Lithium-Ion Battery Storage,Taiwan,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,TW
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_TW,100,725,Lithium-Ion Battery Storage,Taiwan,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,TW

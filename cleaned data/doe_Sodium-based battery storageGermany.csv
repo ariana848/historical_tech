@@ -1,3 +1,3 @@
 ID,2009,2012,2014,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Sodium-based battery storage_Cumulative Rated Capacity_DE,4800.0,10800.0,10880.0,Sodium-based battery storage,Germany,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,DE
-Sodium-based battery storage_Cumulative Rated Power_DE,800.0,1800.0,1820.0,Sodium-based battery storage,Germany,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,DE
+Sodium-Based Battery Storage_Cumulative Rated Power_DE,800,1800,1820,Sodium-Based Battery Storage,Germany,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,DE
+Sodium-Based Battery Storage_Cumulative Rated Capacity_DE,800,1800,1820,Sodium-Based Battery Storage,Germany,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,DE
