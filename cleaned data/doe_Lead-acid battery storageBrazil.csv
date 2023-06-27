@@ -1,3 +1,3 @@
 ID,2020,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lead-Acid Battery Storage_Cumulative Rated Power_BR,392,Lead-Acid Battery Storage,Brazil,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,BR
-Lead-Acid Battery Storage_Cumulative Rated Capacity_BR,392,Lead-Acid Battery Storage,Brazil,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,BR
+Lead-Acid Battery Storage_Cumulative Rated Power_BR,392.0,Lead-Acid Battery Storage,Brazil,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,BR
+Lead-Acid Battery Storage_Cumulative Rated Capacity_BR,1026.0,Lead-Acid Battery Storage,Brazil,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,BR

@@ -1,3 +1,3 @@
 ID,2013,2014,2015,2016,2017,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-Ion Battery Storage_Cumulative Rated Power_CA,1900,9900,18852,19762,43562,Lithium-Ion Battery Storage,Canada,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,CA
-Lithium-Ion Battery Storage_Cumulative Rated Capacity_CA,1900,9900,18852,19762,43562,Lithium-Ion Battery Storage,Canada,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,CA
+Lithium-Ion Battery Storage_Cumulative Rated Power_CA,1900.0,9900.0,18852.0,19762.0,43562.0,Lithium-Ion Battery Storage,Canada,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,CA
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_CA,1998.0,7318.0,32770.0,33587.5,107787.5,Lithium-Ion Battery Storage,Canada,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,CA

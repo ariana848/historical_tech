@@ -1,3 +1,3 @@
 ID,2013,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lead-Acid Battery Storage_Cumulative Rated Power_KE,100,Lead-Acid Battery Storage,Kenya,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,KE
-Lead-Acid Battery Storage_Cumulative Rated Capacity_KE,100,Lead-Acid Battery Storage,Kenya,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,KE
+Lead-Acid Battery Storage_Cumulative Rated Power_KE,100.0,Lead-Acid Battery Storage,Kenya,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,KE
+Lead-Acid Battery Storage_Cumulative Rated Capacity_KE,400.0,Lead-Acid Battery Storage,Kenya,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,KE

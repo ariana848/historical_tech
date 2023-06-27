@@ -1,3 +1,3 @@
 ID,2013,Technology Name,Country Name,Unit,Data Source,Metric,Spatial Scale,Country Code
-Lithium-Ion Battery Storage_Cumulative Rated Power_HU,500,Lithium-Ion Battery Storage,Hungary,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,HU
-Lithium-Ion Battery Storage_Cumulative Rated Capacity_HU,500,Lithium-Ion Battery Storage,Hungary,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,HU
+Lithium-Ion Battery Storage_Cumulative Rated Power_HU,500.0,Lithium-Ion Battery Storage,Hungary,kW,DOE Global Energy Storage Database,Cumulative Rated Power,National,HU
+Lithium-Ion Battery Storage_Cumulative Rated Capacity_HU,1000.0,Lithium-Ion Battery Storage,Hungary,kWh,DOE Global Energy Storage Database,Cumulative Rated Capacity,National,HU
