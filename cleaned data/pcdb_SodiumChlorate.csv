@@ -1,3 +1,3 @@
 ID,1958,1959,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969,1970,1971,1972,Data Source,Metric,Technology Name,Spatial Scale,Country Name,Country Code,Unit
-Sodium Chlorate_Price_World,8.541188738,8.40247678,8.258691207,8.308163265,8.21801433,8.103377687,8.087268994,7.411764706,6.639880952,6.003887269,5.730769231,5.770970782,5.608499096,5.39810834,5.358458961,Santa Fe Institute,Price,Sodium Chlorate,Global,World,World,Price (1966 USD/lbs)
-Sodium Chlorate_Annual production_World,67.2,88.3,91.6,103.2,111.8,124.3,136.3,134.3,154.2,155.5,167.4,187.2,197.7,195.8,193.8,Santa Fe Institute,Annual production,Sodium Chlorate,Global,World,World,Yearly Production (Mil. lbs)
+Sodium Chlorate_Price_World,8.541188738,8.40247678,8.258691207,8.308163265,8.21801433,8.103377687,8.087268994,7.411764706,6.639880952,6.003887269,5.730769231,5.770970782,5.608499096,5.39810834,5.358458961,PCDB,Price,Sodium Chlorate,Global,World,World,Price (1966 USD/lbs)
+Sodium Chlorate_Annual production_World,67.2,88.3,91.6,103.2,111.8,124.3,136.3,134.3,154.2,155.5,167.4,187.2,197.7,195.8,193.8,PCDB,Annual production,Sodium Chlorate,Global,World,World,Yearly Production (Mil. lbs)

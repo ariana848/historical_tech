@@ -1,3 +1,3 @@
 ID,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969,1970,1971,1972,Data Source,Metric,Technology Name,Spatial Scale,Country Name,Country Code,Unit
-Polyester Fiber_Price_World,128.797546,120.4459184,116.6601842,116.6601842,100.6190965,85.20791075,81.37202381,56.34013605,52.86730769,42.4269557,37.08679928,32.68787618,30.16499162,Santa Fe Institute,Price,Polyester Fiber,Global,World,World,Price (1966 USD/lbs)
-Polyester Fiber_Annual production_World,102.1,101.0,148.7,207.1,246.5,378.5,499.2,708.4,1080.8,1302.1,1465.4,1819.4,2327.5,Santa Fe Institute,Annual production,Polyester Fiber,Global,World,World,Yearly Production (Mil. lbs)
+Polyester Fiber_Price_World,128.797546,120.4459184,116.6601842,116.6601842,100.6190965,85.20791075,81.37202381,56.34013605,52.86730769,42.4269557,37.08679928,32.68787618,30.16499162,PCDB,Price,Polyester Fiber,Global,World,World,Price (1966 USD/lbs)
+Polyester Fiber_Annual production_World,102.1,101.0,148.7,207.1,246.5,378.5,499.2,708.4,1080.8,1302.1,1465.4,1819.4,2327.5,PCDB,Annual production,Polyester Fiber,Global,World,World,Yearly Production (Mil. lbs)

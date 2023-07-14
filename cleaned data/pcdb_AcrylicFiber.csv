@@ -1,3 +1,3 @@
 ID,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969,1970,1971,1972,Data Source,Metric,Technology Name,Spatial Scale,Country Name,Country Code,Unit
-Acrylic Fiber_Price_World,132.9867076,120.4459184,107.4759468,107.4759468,100.6190965,91.29513185,79.36309524,72.85034014,57.67211538,51.82092366,49.7124774,45.5588994,40.19262982,Santa Fe Institute,Price,Acrylic Fiber,Global,World,World,Price (1966 USD/lbs)
-Acrylic Fiber_Annual production_World,135.7,140.1,170.0,209.7,287.7,368.4,352.9,397.7,521.0,533.0,491.9,545.2,625.9,Santa Fe Institute,Annual production,Acrylic Fiber,Global,World,World,Yearly Production (Mil. lbs)
+Acrylic Fiber_Price_World,132.9867076,120.4459184,107.4759468,107.4759468,100.6190965,91.29513185,79.36309524,72.85034014,57.67211538,51.82092366,49.7124774,45.5588994,40.19262982,PCDB,Price,Acrylic Fiber,Global,World,World,Price (1966 USD/lbs)
+Acrylic Fiber_Annual production_World,135.7,140.1,170.0,209.7,287.7,368.4,352.9,397.7,521.0,533.0,491.9,545.2,625.9,PCDB,Annual production,Acrylic Fiber,Global,World,World,Yearly Production (Mil. lbs)
