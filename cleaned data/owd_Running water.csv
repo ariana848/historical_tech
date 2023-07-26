@@ -1,2 +1,2 @@
-ID,1890,1940,1950,1960,1970,1980,1989,Technology Name,Country Name,Country Code,Spatial Scale,Unit,Metric,Data Source
-Running water_Share of Households_US,0.24,0.7,0.83,0.93,0.98,0.99,1.0,Running water,United States,US,National,Percentage,Share of Households,OWID
+ID,1890,1940,1950,1960,1970,1980,1989,Country Name,Country Code,Spatial Scale,Unit,Technology Name,Metric,Data Source
+Running Water_Share of Households_US,0.24,0.7,0.83,0.93,0.98,0.99,1.0,United States,US,National,Percentage,Running Water,Share of Households,OWID

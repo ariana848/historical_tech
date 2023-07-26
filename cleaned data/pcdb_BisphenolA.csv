@@ -1,3 +1,3 @@
 ID,1959,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969,1970,1971,1972,Data Source,Metric,Technology Name,Spatial Scale,Country Name,Country Code,Unit
-Bisphenol A_Price_World,28.00825593,27.72290389,27.66632653,26.08290686,25.28659161,22.20533881,21.09634888,20.12599206,20.01360544,18.18846154,17.63336475,15.1238698,13.69475494,12.97068677,PCDB,Price,Bisphenol A,Global,World,World,Price (1966 USD/lbs)
-Bisphenol A_Annual production_World,43.8,50.5,45.8,62.1,72.4,92.9,97.2,126.4,130.4,143.7,182.1,202.2,186.7,255.2,PCDB,Annual production,Bisphenol A,Global,World,World,Yearly Production (Mil. lbs)
+BisphenolA_Price_World,28.00825593,27.72290389,27.66632653,26.08290686,25.28659161,22.20533881,21.09634888,20.12599206,20.01360544,18.18846154,17.63336475,15.1238698,13.69475494,12.97068677,PCDB,Price,BisphenolA,Global,World,World,Price (1966 USD/lbs)
+BisphenolA_Annual production_World,43.8,50.5,45.8,62.1,72.4,92.9,97.2,126.4,130.4,143.7,182.1,202.2,186.7,255.2,PCDB,Annual production,BisphenolA,Global,World,World,Yearly Production (Mil. lbs)
