@@ -1,2 +1,2 @@
 ID,1993,1994,1997,1998,2005,2006,2008,2014,2016,2018,2019,2020,2021,Country Name,Spatial Scale,Country Code,Data Source,Metric,Unit,Technology Name
-Space Launches_Yearly Launches_TH,1,1,1,1,1,1,1,1,1,1,1,1,2,Thailand,National,TH,UNOOSA,Yearly Launches,Number of objects launched into space,Space Launches
+Space Launches_Total Number_TH,1,1,1,1,1,1,1,1,1,1,1,1,2,Thailand,National,TH,UNOOSA,Total Number,-,Space Launches

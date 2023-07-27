@@ -1,2 +1,2 @@
 ID,2014,2016,2017,2018,2020,2021,2022,Country Name,Spatial Scale,Country Code,Data Source,Metric,Unit,Technology Name
-Space Launches_Yearly Launches_UY,1,2,1,2,13,4,9,Uruguay,National,UY,UNOOSA,Yearly Launches,Number of objects launched into space,Space Launches
+Space Launches_Total Number_UY,1,2,1,2,13,4,9,Uruguay,National,UY,UNOOSA,Total Number,-,Space Launches

@@ -1,2 +1,2 @@
 ID,1974,2008,2013,2017,2018,2021,2022,Country Name,Spatial Scale,Country Code,Data Source,Metric,Unit,Technology Name
-Space Launches_Yearly Launches_NL,1,1,4,1,3,3,1,Netherlands,National,NL,UNOOSA,Yearly Launches,Number of objects launched into space,Space Launches
+Space Launches_Total Number_NL,1,1,4,1,3,3,1,Netherlands,National,NL,UNOOSA,Total Number,-,Space Launches

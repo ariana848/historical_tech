@@ -1,2 +1,2 @@
 ID,2013,2014,2016,Country Name,Spatial Scale,Country Code,Data Source,Metric,Unit,Technology Name
-Space Launches_Yearly Launches_PE,2,1,1,Peru,National,PE,UNOOSA,Yearly Launches,Number of objects launched into space,Space Launches
+Space Launches_Total Number_PE,2,1,1,Peru,National,PE,UNOOSA,Total Number,-,Space Launches

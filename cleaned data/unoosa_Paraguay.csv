@@ -1,2 +1,2 @@
 ID,2021,Country Name,Spatial Scale,Country Code,Data Source,Metric,Unit,Technology Name
-Space Launches_Yearly Launches_PY,1,Paraguay,National,PY,UNOOSA,Yearly Launches,Number of objects launched into space,Space Launches
+Space Launches_Total Number_PY,1,Paraguay,National,PY,UNOOSA,Total Number,-,Space Launches

@@ -1,3 +1,3 @@
 ID,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969,1970,1971,1972,Data Source,Metric,Technology Name,Spatial Scale,Country Name,Country Code,Unit
-Ethylene Glycol_Price_World,10.47750511,11.06938776,9.556806551,9.255885363,9.396303901,8.820486815,8.08531746,7.325558795,6.441346154,6.030160226,5.984629295,5.496130696,5.005862647,PCDB,Price,Ethylene Glycol,Global,World,World,Price (1966 USD/lbs)
-Ethylene Glycol_Annual production_World,1297.3,1183.3,1433.9,1659.6,1814.6,1797.9,2081.2,1988.8,2042.8,2570.9,3037.5,3070.0,3761.1,PCDB,Annual production,Ethylene Glycol,Global,World,World,Yearly Production (Mil. lbs)
+Ethylene Glycol_Price_World,10.47750511,11.06938776,9.556806551,9.255885363,9.396303901,8.820486815,8.08531746,7.325558795,6.441346154,6.030160226,5.984629295,5.496130696,5.005862647,PCDB,Price,Ethylene Glycol,Global,World,World,1966 USD/lb
+Ethylene Glycol_Annual production_World,1297.3,1183.3,1433.9,1659.6,1814.6,1797.9,2081.2,1988.8,2042.8,2570.9,3037.5,3070.0,3761.1,PCDB,Annual production,Ethylene Glycol,Global,World,World,million pounds

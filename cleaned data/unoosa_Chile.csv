@@ -1,2 +1,2 @@
 ID,1995,1998,2011,2017,2022,Country Name,Spatial Scale,Country Code,Data Source,Metric,Unit,Technology Name
-Space Launches_Yearly Launches_CL,1,1,1,1,3,Chile,National,CL,UNOOSA,Yearly Launches,Number of objects launched into space,Space Launches
+Space Launches_Total Number_CL,1,1,1,1,3,Chile,National,CL,UNOOSA,Total Number,-,Space Launches

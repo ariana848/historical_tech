@@ -1,2 +1,2 @@
 ID,1998,2000,2007,2010,2014,2019,2022,Country Name,Spatial Scale,Country Code,Data Source,Metric,Unit,Technology Name
-Space Launches_Yearly Launches_EG,1,1,1,1,1,4,1,Egypt,National,EG,UNOOSA,Yearly Launches,Number of objects launched into space,Space Launches
+Space Launches_Total Number_EG,1,1,1,1,1,4,1,Egypt,National,EG,UNOOSA,Total Number,-,Space Launches

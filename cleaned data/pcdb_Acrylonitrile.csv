@@ -1,3 +1,3 @@
 ID,1959,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969,1970,1971,1972,Data Source,Metric,Technology Name,Spatial Scale,Country Name,Country Code,Unit
-Acrylonitrile_Price_World,26.82868937,22.92535787,17.9255102,15.19959058,14.20061412,16.10882957,16.1693712,12.55357143,11.4548105,11.53942308,11.06503299,9.886980108,8.890799656,8.968174204,PCDB,Price,Acrylonitrile,Global,World,World,Price (1966 USD/lbs)
-Acrylonitrile_Annual production_World,232.3,229.2,249.5,360.1,455.3,594.2,771.6,716.1,670.8,1021.0,1156.6,1039.3,978.9,1114.7,PCDB,Annual production,Acrylonitrile,Global,World,World,Yearly Production (Mil. lbs)
+Acrylonitrile_Price_World,26.82868937,22.92535787,17.9255102,15.19959058,14.20061412,16.10882957,16.1693712,12.55357143,11.4548105,11.53942308,11.06503299,9.886980108,8.890799656,8.968174204,PCDB,Price,Acrylonitrile,Global,World,World,1966 USD/lb
+Acrylonitrile_Annual production_World,232.3,229.2,249.5,360.1,455.3,594.2,771.6,716.1,670.8,1021.0,1156.6,1039.3,978.9,1114.7,PCDB,Annual production,Acrylonitrile,Global,World,World,million pounds

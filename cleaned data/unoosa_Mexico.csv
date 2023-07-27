@@ -1,2 +1,2 @@
 ID,1985,1993,1994,1996,1998,2006,2011,2012,2013,2015,2016,2019,2020,2021,Country Name,Spatial Scale,Country Code,Data Source,Metric,Unit,Technology Name
-Space Launches_Yearly Launches_MX,2,1,1,1,1,1,2,1,1,2,1,1,1,2,Mexico,National,MX,UNOOSA,Yearly Launches,Number of objects launched into space,Space Launches
+Space Launches_Total Number_MX,2,1,1,1,1,1,2,1,1,2,1,1,1,2,Mexico,National,MX,UNOOSA,Total Number,-,Space Launches
