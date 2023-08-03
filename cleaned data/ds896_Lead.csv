@@ -19,7 +19,6 @@ Lead_Annual production_FI,1700.0,1400.0,576.0,,,,,,,,,,,,,,,,,,,,,Finland,FI,Nat
 Lead_Annual production_FR,1190.0,1730.0,,,,,,,,,,,,,,,,,,,,,,France,FR,National,USGS,metric tons,Annual production,Lead
 Lead_Annual production_GE,,,800.0,500.0,400.0,300.0,200.0,200.0,200.0,400.0,200.0,200.0,400.0,400.0,400.0,400.0,400.0,400.0,400.0,400.0,400.0,400.0,400.0,Georgia,GE,National,USGS,metric tons,Annual production,Lead
 Lead_Annual production_DE,,5930.0,1490.0,,,,,,,,,,,,,,,,,,,,,Germany,DE,National,USGS,metric tons,Annual production,Lead
-Lead_Annual production_DE,7150.0,,,,,,,,,,,,,,,,,,,,,,,Germany: Western states,DE,National,USGS,metric tons,Annual production,Lead
 Lead_Annual production_GR,26200.0,31700.0,28300.0,28800.0,28400.0,20400.0,8400.0,19300.0,18000.0,16000.0,18200.0,27700.0,29300.0,2000.0,,1500.0,10500.0,15000.0,16000.0,16000.0,18000.0,18000.0,20000.0,Greece,GR,National,USGS,metric tons,Annual production,Lead
 Lead_Annual production_GL,16000.0,,,,,,,,,,,,,,,,,,,,,,,Greenland,GL,National,USGS,metric tons,Annual production,Lead
 Lead_Annual production_GT,,,,,,,,,,,,,,,47.0,23.0,28.0,165.0,53.0,,,,,Guatemala,GT,National,USGS,metric tons,Annual production,Lead
@@ -62,4 +61,3 @@ Lead_Annual production_UZ,,,35000.0,25000.0,15000.0,10000.0,10000.0,,,,,,,,,,,,,
 Lead_Annual production_VN,,,,,,,,1000.0,1000.0,1000.0,1000.0,900.0,1100.0,1100.0,2750.0,7700.0,14900.0,19200.0,14200.0,7700.0,7400.0,7400.0,7400.0,Vietnam,VN,National,USGS,metric tons,Annual production,Lead
 Lead_Annual production_YU,99100.0,90000.0,,,,,,,,,,,,,,,,,,,,,,Yugoslavia,YU,National,USGS,metric tons,Annual production,Lead
 Lead_Annual production_ZM,9640.0,9080.0,4450.0,7030.0,,,,,,,,,,,,,,,,,,,,Zambia,ZM,National,USGS,metric tons,Annual production,Lead
-Lead_Annual production_World,3370000.0,3330000.0,3060000.0,2680000.0,2790000.0,2830000.0,3090000.0,3100000.0,3060000.0,3060000.0,3170000.0,3050000.0,2870000.0,3200000.0,3150000.0,3470000.0,3630000.0,3710000.0,3880000.0,3850000.0,4150000.0,4730000.0,5170000.0,World,World,Global,USGS,metric tons,Annual production,Lead
